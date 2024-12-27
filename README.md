@@ -24,6 +24,6 @@ A simple Pomodoro Timer built with Flask, HTML, CSS, and JavaScript. It includes
 2. Install the required dependencies:
    ```bash
     pip install flask
-3.Run the Flask server:
-  ```bash
+3. Run the Flask server:
+   ```bash
     python app.py
