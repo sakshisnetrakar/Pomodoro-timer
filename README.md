@@ -1,6 +1,4 @@
-# Pomodoro Timer with Long Break Functionality
-
-## Pomodoro Timer
+# Pomodoro Timer
 
 A simple Pomodoro Timer built with Flask, HTML, CSS, and JavaScript. It includes a 25-minute work session, short 5-minute breaks, and a 15-minute long break after every four cycles. The app includes sound notifications for each break and work period. After the long break, the timer resets and waits for the user to start the next cycle manually.
 
@@ -25,7 +23,7 @@ A simple Pomodoro Timer built with Flask, HTML, CSS, and JavaScript. It includes
 1. Clone or download the project.
 2. Install the required dependencies:
    ```bash
-   pip install flask
+    pip install flask
 3.Run the Flask server:
   ```bash
-  python app.py
+    python app.py
